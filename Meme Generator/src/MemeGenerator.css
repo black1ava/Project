@@ -1,0 +1,19 @@
+.meme{
+    max-height: 205px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.topText{
+    font-size: 30px;
+    position: relative;
+    top: -225px;
+}
+
+.buttomText{
+    font-size: 30px;
+    position: relative;
+    top: -135px;
+}

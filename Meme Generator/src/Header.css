@@ -1,0 +1,23 @@
+header{
+    background: -webkit-linear-gradient(left, yellow, yellow, purple);
+    height: 70px;
+}
+
+.trollFace{
+    max-height: 70px;
+    width: auto;
+    display: block;
+}
+p{
+    text-align: center;
+    color: white;
+    -webkit-text-stroke: 2px black;
+     font-weight: bold;
+}
+.headerText{
+    position: relative;
+    font-size: 32px;
+    top: -90px;
+    left: 40px;
+    text-shadow: 10px 10px 7px black;
+}
