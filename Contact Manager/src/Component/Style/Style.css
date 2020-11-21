@@ -1,0 +1,45 @@
+body{
+  background: lightblue;
+}
+p{
+  background: lightgreen;
+}
+
+.delete{
+  position: absolute;
+  right: 40px;
+  background: red;
+  color: white;
+  border-style: none;
+}
+
+.edit{
+  position: absolute;
+  right: 0px;
+  background: green;
+  color: white;
+  border-style: none;
+}
+
+.cancel{
+  position: absolute;
+  top: 81px;
+  left: 250px;
+  background: red;
+  color: white;
+  border-style: none;
+}
+
+ .add{
+  position: absolute;
+  left: 200px;
+  background: green;
+  color: white;
+  border-style: none;
+ }
+ 
+ .input{
+   background: lightblue;
+   border: black 1px;
+   border-style: double;
+}
