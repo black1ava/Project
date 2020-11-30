@@ -1,0 +1,30 @@
+.button{
+  position: absolute;
+  top: 22px;
+  left: 0px;
+}
+
+.Menu{
+  position: absolute;
+  width: 100px;
+  top: 35px;
+  left: 0px;
+  background: -webkit-linear-gradient(left, red, #5a5a5a);
+}
+
+.buttonMenu{
+  background-color: transparent;
+  border-style: none
+}
+
+.menuButton{
+  max-width: 35px;
+  height: auto;
+}
+
+.inMenu{
+  background: transparent;
+  border-style: none;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
