@@ -1,0 +1,23 @@
+img{
+  max-height: 200px;
+  width: auto;
+}
+
+.info{
+  background: lightblue;
+  border-radius: 5px;
+  box-shadow: 2px 2px grey;
+  border-style: none;
+}
+
+.infoLink{
+  background: lightblue;
+  border-radius: 5px;
+  box-shadow: 2px 2px grey;
+  border-style: none;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+}

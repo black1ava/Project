@@ -1,0 +1,7 @@
+.alert{
+  position: relative;
+  background: red;
+  color: white;
+  top: -50px;
+  right: 26px
+}
